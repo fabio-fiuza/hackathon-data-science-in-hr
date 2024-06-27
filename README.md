@@ -8,7 +8,7 @@ Fui premiado com o 3º lugar no primeiro desafio de dados promovido pela empresa
 
 - **Modelagem Preditiva:** Modelos utilizados para prever a rotatividade e seus principais fatores.
 
-- **Visualizações:** Gráficos e dashboards que ilustram os resultados da análise.
+- **Visualizações:** Gráficos e observações que ilustram os resultados da análise.
 
 - **Relatório Final:** Documento detalhado explicando a metodologia, descobertas e recomendações.
 
