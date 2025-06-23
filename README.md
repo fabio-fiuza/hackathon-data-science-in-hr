@@ -1,4 +1,4 @@
-<img src="https://rhjunior.com.br/wp-content/uploads/2021/11/image-2.png" alt="Descrição da imagem">
+![Descrição da Imagem](reports/figures/analise_fatores_influencia_rotatividade.png)
 
 # 1º Deafio de Dados - Ciência de Dados com Recursos Humanos
 
